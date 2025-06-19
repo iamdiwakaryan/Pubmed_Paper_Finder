@@ -89,6 +89,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 * Model: [Meta-LLaMA-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
 * Streamlit for making interactive AI apps simple to build.
 
----
-
-Let me know if you want this published as a GitHub `README.md` with formatting tailored for GitHub display.
