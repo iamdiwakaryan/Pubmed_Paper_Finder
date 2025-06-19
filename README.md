@@ -1,7 +1,3 @@
-Here's a `README.md` for your Streamlit app using a smart multi-tool LLM agent:
-
----
-
 # 🧠 Smart Multi-Tool LLM Agent
 
 This is a Streamlit application that uses a **Meta LLaMA 3-based language model** with multiple tools to answer both **general** and **biomedical** queries. It automatically decides the best tool (PubMed or DuckDuckGo) to fetch relevant and accurate information based on your question.
